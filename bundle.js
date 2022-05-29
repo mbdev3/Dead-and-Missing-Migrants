@@ -257,7 +257,7 @@
   };
 
   var width = 960;
-  var height = 650;
+  var height = 540;
   var DateHistogramSize = 0.4;
   var xValue = function (d) { return d["Reported Date"]; };
   var App = function () {

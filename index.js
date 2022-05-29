@@ -7,7 +7,7 @@ import { scaleSqrt, max } from "d3";
 import { BubbleMap } from "./BubbleMap/index";
 import { DateHistogram } from "./DateHistogram/index";
 const width = 960;
-const height = 650;
+const height = 540;
 const DateHistogramSize = 0.4;
 const xValue = (d) => d["Reported Date"];
 const App = () => {
