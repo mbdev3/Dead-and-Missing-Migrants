@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  overflow: auto;
+  font-family: "Nunito", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+pre {
+  font-size: 7em;
+}
+
+#title {
+  margin: 1rem 0;
+}
+
+#title h1 {
+  font-size: 1.75em;
+  text-align: center;
+  color: #413f3e;
+  margin: 0;
+  margin-top: 1rem;
+  letter-spacing: 2px;
+}
+
+.marks-map {
+  fill: white;
+}
+
+.land {
+  fill: #ececec
+}
+
+.interiors {
+  fill: none;
+  stroke: #d9dfe0
+}
+
+.sphere {
+  fill: #fbfbfb;
+}
+
+.graticules {
+  fill: none;
+  stroke: #ececec;
+}
+
+.marks-map circle {
+  fill: #dd7437;
+  opacity: 0.2;
+}
+
+.marks-bar {
+  fill: none;
+}
+
+.marks-bar path {}
+
+.marks-bar rect {
+  fill: #dd7437;
+  opacity: 0.8;
+}
+
+line {
+  stroke: #9e9b9b;
+  stroke-width: 2;
+}
+
+.tick line {
+  stroke: none
+}
+
+.tick text {
+  font-size: 0.85em;
+}
+
+.label {
+  font-size: 1.15em;
+}
+
+
+
+.copyright {
+  opacity: 0.75;
+  transition: opacity 0.75s ease;
+}
+
+.copyright:hover {
+  opacity: 1;
+}
