@@ -1,8 +1,6 @@
 # Dead and Missing Migrants - multiple views with brushing
 
----
 
-### :camera: Preview:
 
 <img src="https://projects-preview.s3.eu-west-3.amazonaws.com/Dead+and+Missing+Migrants+mbdev.webp"    />
 
